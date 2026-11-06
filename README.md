@@ -23,3 +23,6 @@ test_math.py::test_add_numbers PASSED [ 33%]
 test_math.py::test_divide_numbers PASSED [ 66%]
 test_math.py::test_divide_by_zero PASSED [100%]
 ========================= 3 passed in 0.04s =========================
+
+# Запустить тесты
+Команда для запуска тестов - python -m pytest -v
